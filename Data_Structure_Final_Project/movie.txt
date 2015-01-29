@@ -1,0 +1,26 @@
+BEGIN The Princess Bride
+KEYWORD: comedy
+KEYWORD: Inigo Montoya
+KEYWORD: Robin Wright
+ACTOR: Inigo Montoya
+ACTOR: Robin Wright
+END
+BEGIN City Lights
+KEYWORD: comedy
+KEYWORD: romance
+KEYWORD: Charlie Chaplin
+KEYWORD: social criticism
+ACTOR: Charlie Chaplin
+END
+BEGIN The Dark Knight
+KEYWORD: action
+KEYWORD: Christian Bale
+KEYWORD: comic
+ACTOR: Christian Bale
+END
+BEGIN Dracula Untold
+KEYWORD: horror
+KEYWORD: Adventure
+KEYWORD: Luke Evans
+ACTOR: Luke Evans
+END
