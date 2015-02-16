@@ -1,0 +1,1 @@
+A Othello game made with Python Tkinter
