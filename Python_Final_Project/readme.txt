@@ -1,1 +1,1 @@
-A Othello game made with Python Tkinter
+An Othello game made with Python Tkinter
