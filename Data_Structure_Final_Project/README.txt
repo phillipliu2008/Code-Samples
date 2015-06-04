@@ -1,6 +1,6 @@
 A C++ Project simulates NetFlix functionalities with self-made data structures. 
 
-Ex. Rent a movie, return a movie, recomandations, etc.
+Ex. rent a movie, return a movie, recommendation, etc.
 
 Need to install Qt in order to complie this project.
 
