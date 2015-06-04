@@ -1,1 +1,1 @@
-Code-Samples from my C++, Python and Java courses
+Code Samples from my C++, Python and Java courses
