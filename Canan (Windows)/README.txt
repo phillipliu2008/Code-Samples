@@ -1,4 +1,4 @@
-A Puzzle Platformer game I made with Unity Engine.
+A 2D survival horror game took place in a haunted mansion. 
 
-Extract the zip file and double click "Canan Final Build.exe" to play it.
+Player must solve cryptic puzzles and escape the mansion before all the lights are out. 
 
